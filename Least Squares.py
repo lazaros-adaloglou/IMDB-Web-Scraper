@@ -1,5 +1,6 @@
 import pandas as pd
 import numpy as np
+from sklearn import linear_model
 
 # Data Matrix
 df_train = pd.read_csv('movies.csv')
