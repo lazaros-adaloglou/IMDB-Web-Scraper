@@ -12,7 +12,7 @@ Data = np.delete(Data, 4, 1)
 Data = np.delete(Data, 0, 1)
 Data = np.delete(Data, 3, 1)
 
-# Y
+# Y.
 Y = df_train['us_grossMillions'].values
 
 # Parameter Vector
